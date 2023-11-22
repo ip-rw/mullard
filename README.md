@@ -9,3 +9,7 @@ WARNING: This script contains binaries, lions, tigers, and bears. For sure it's 
 Arguments:
   MullvadID: Your Mullvad account ID.
 
+
+You're gonna want jq, wireguard, curl, bash, new/working gost and maybe some day the source for the speed measurement thing.
+
+ulimit -SHn 999999
