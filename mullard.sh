@@ -15,7 +15,7 @@ It will download all the WireGuard configs, make a few tweaks, find the fastest 
 connect (requires wg-quick) but without using AllowedIPs 0/0 so your internet will continue to function.
 It'll then run a rotating proxy server that makes use of Mullvad's unique and rather wonderful SOCKS5 facility.
 
-WARNING: This script contains binaries, lions, tigers, and bears. For sure it's packed with malware.
+WARNING: This script contains binaries. Please review the code and use at your own risk.
 
 Arguments:
   MullvadID: Your Mullvad account ID.
